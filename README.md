@@ -1,43 +1,29 @@
-<h1> Hey, I’m Iris </h1>
+<h1> Hey, I’m Iris! </h1>
 
 <img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;Coder+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Up+and+Coming+Analyst+📊;Data+Analytics💻;Market+Analytics🍀;Machine+Learning🗝️;Product+Management🌈;)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
+
 <div align = "left">
-  👀 I am an Artificial Intelligence and Data Science enthusiast<br>
-  🤖 Currently practising Machine Learning and its applications<br>
-  🫂 Looking for a collaborator on DS and ML projects<br> 
-  📖 I'm finding opportunities for research internships in Machine Learning<br>
-  📫 annarhysa13@gmail.com <br> 
-  🕸️ <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
+  👀 I am a data enthusiast<br>
+  🎓 Graduated from McGill University<br>
+  📖 I'm seeking opportunities for a data-related position<br>
+  🫂 Take a look at all the work I have done in the past<br>
+  📫 xinran.liu@mail.mcgill.ca <br> 
+Let's connect!
 
   </div>
 <br>
 <br>
-<br>
 
-<div id="badges" align = "center">
 
-  <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
+<div id="badges" align = "left">
+
+  <a href="https://www.linkedin.com/in/xinran-iris-liu/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://linktr.ee/anna_albert">
-   <img src="https://img.shields.io/badge/Linktree-acdc5c?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Badge"/>
-  </a>
-  <a href="https://discord.com/channels/@me/1084779154106494987">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://twitter.com/annarhysa003">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://in.pinterest.com/annarhysa/">
-    <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
-  </a>
-  <a href="https://www.tumblr.com/blog/anna-albert003">
-    <img src="https://img.shields.io/badge/Tumblr-34526f?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr Badge"/>
-  </a>
+
   
   
  <!--- <a href="https://www.hackerrank.com/aa17011?hr_r=1">
