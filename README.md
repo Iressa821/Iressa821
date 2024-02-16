@@ -48,9 +48,8 @@ Programming Languages that I am proficient in: SQL, Python (Pandas, NumPy, Matpl
 Softwares that I use: PowerBI, Excel (Pivot Table, VLOOKUP), Word, PowerPoint.
 <br>
 Machine Learning Models that I know: Regression, KNN, K-Means, Decision Trees, Gradient Boosting Machines, Time Series Models.
-
 <br>
-
+<br>
 🎏You can find my past projects in the repositories below.
 
 <br>
