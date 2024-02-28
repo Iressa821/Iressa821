@@ -55,7 +55,7 @@ Machine Learning Models that I know: Regression, KNN, K-Means, Decision Trees, G
 <br>
 
 
-
+<!---
 ## 🔝 Top Repositories
 <div align = "center">
 <a href="https://github.com/Annarhysa/Book-Recommendation">
@@ -71,6 +71,7 @@ Machine Learning Models that I know: Regression, KNN, K-Means, Decision Trees, G
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=CareerWise&theme=transparent" />
 </a>
 </div>
+--->
 
 <!---
 Annarhysa/Annarhysa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
