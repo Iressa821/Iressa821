@@ -52,7 +52,6 @@ Machine Learning Models that I know: Regression, KNN, K-Means, Decision Trees, G
 <br>
 🎏You can find my past projects in the repositories below.
 
-<br>
 
 
 <!---
