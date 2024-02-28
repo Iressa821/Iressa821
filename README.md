@@ -37,7 +37,7 @@
 <div align = "center">
 </div>
 
-Hello! I'm Iris Liu. During my freshman year, the term "big data" gained popularity, and I distinctly recall a guest speaker in one of my introductory classes discussing a method to predict U.S. election results using Google search data. According to a psychological theory, people tend to favor options they mention first, so searching "Hillary and Trump and" could indicate a preference for Hilray. This revelation deeply intrigued me, sparking my decision to pursue a career in data analysis. 
+Hello! I'm Iris Liu. During my freshman year, the term "big data" gained popularity, and I distinctly recall a guest speaker in one of my introductory classes discussing a method to predict U.S. election results using Google search data. According to a psychological theory, people tend to favor options they mention first, so searching "Hillary and Trump and" could indicate a preference for Hillray. This revelation deeply intrigued me, sparking my decision to pursue a career in data analysis. 
 <br>
 <br>
 My undergraduate studies in statistics and experience as a data research assistant provided me with a strong foundation in statistical modeling. Subsequently, I enrolled in McGill's Master of Management in Analytics program, where I gained a comprehensive understanding of data analytics. Leveraging my skills, I have applied data analysis in various roles, including market research, product management, and database governance. These experiences underscored the profound impact of data in the real world and solidified my determination to harness its power to derive meaningful insights.
