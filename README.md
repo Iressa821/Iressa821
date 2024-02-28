@@ -2,7 +2,7 @@
 
 <img src="./images/Hand coding-rafiki.png" width="30%" alt="vector" align="right"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Analytics💻;Market+Analytics🍀;Machine+Learning🗝️;Product+Management📊;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Analytics💻;Market+Analytics🍀;Business+Intelligence🎉;Machine+Learning🗝️;Product+Management📊;)](https://git.io/typing-svg)
 
 
 <div align = "left">
