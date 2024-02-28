@@ -43,11 +43,11 @@ Hello! I'm Iris Liu. During my freshman year, the term "big data" gained popular
 My undergraduate studies in statistics and experience as a data research assistant provided me with a strong foundation in statistical modeling. Subsequently, I enrolled in McGill's Master of Management in Analytics program, where I gained a comprehensive understanding of data analytics. Leveraging my skills, I have applied data analysis in various roles, including market research, product management, and database governance. These experiences underscored the profound impact of data in the real world and solidified my determination to harness its power to derive meaningful insights.
 <br>
 <br>
-Programming Languages that I am proficient in: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Selenium, scikit-learn), R, SAS.
+Programming Languages that I am proficient in: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Selenium, scikit-learn), R, SAS
 <br>
-Softwares that I use: PowerBI, Excel (Pivot Table, VLOOKUP), Word, PowerPoint.
+Softwares that I use: PowerBI, Excel (Pivot Table, VLOOKUP), Word, PowerPoint
 <br>
-Machine Learning Models that I know: Regression, KNN, K-Means, Decision Trees, Gradient Boosting Machines, Time Series Models.
+Machine Learning Models that I know: Regression, KNN, K-Means, Decision Trees, Gradient Boosting Machines, Time Series Models
 <br>
 <br>
 🎏You can find my past projects in the repositories below.
